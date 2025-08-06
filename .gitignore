@@ -1,0 +1,6 @@
+**/.venv
+**/task_cuda/CUDA_Test.egg-info
+**/task_cuda/CUDA_Test.cpython-312-x86_64-linux-gnu.so
+**/build/
+**/.cache/
+MLSys/basic_mlsys_knowledge/q1/Llama-3.2-3B-Instruct
